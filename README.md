@@ -1,14 +1,13 @@
 # Teen-Phone-Addiction-
 # Teen Phone Addiction Analysis – Power BI Dashboard
-
-## 📌 Project Overview
+ Project Overview
 This project analyzes teenage smartphone usage patterns and addiction behavior using an open-source dataset from Kaggle. The goal is to identify how phone usage impacts sleep, academic performance, and overall well-being.
 
 An interactive Power BI dashboard was developed to provide actionable insights for educators, parents, and policymakers.
 
 ---
 
-## 🎯 Objectives
+Objectives
 - Analyze daily phone usage trends among teenagers
 - Identify addiction levels and behavioral patterns
 - Study correlations between phone usage, sleep hours, and academic performance
@@ -16,7 +15,7 @@ An interactive Power BI dashboard was developed to provide actionable insights f
 
 ---
 
-## 📊 Dashboard Features
+Dashboard Features
 - KPI Cards: Total Teens, Avg Addiction Level, Avg Usage Hours, Avg Sleep, Avg Academic Performance
 - Pie Chart: Purpose of Phone Usage
 - Donut Chart: Addiction Level Distribution
@@ -26,7 +25,7 @@ An interactive Power BI dashboard was developed to provide actionable insights f
 
 ---
 
-## 🛠 Tools & Technologies
+Tools & Technologies
 - Power BI
 - DAX
 - Power Query
@@ -34,14 +33,13 @@ An interactive Power BI dashboard was developed to provide actionable insights f
 - Kaggle Dataset
 
 ---
-
-## 📂 Dataset
+ Dataset
 Source: Kaggle – Teen Phone Addiction Dataset  
 Cleaned dataset is available in the `data/` folder.
 
 ---
 
-## 📈 Key Insights
+Key Insights
 - Higher addiction levels are associated with reduced sleep hours
 - Increased phone usage shows a negative correlation with academic performance
 - Gender-based differences exist in daily phone usage
@@ -49,14 +47,14 @@ Cleaned dataset is available in the `data/` folder.
 
 ---
 
-## 🚀 How to Use
+ How to Use
 1. Download the repository
 2. Open `Teen_Phone_Addiction.pbix` in Power BI Desktop
 3. Interact with slicers and visuals to explore insights
 
 ---
 
-## 📬 Contact
+Contact
 **Prashant Bhise**  
 📍 Mumbai, India  
 🔗 LinkedIn: https://www.linkedin.com/in/prashant-bhise-95b226205  
